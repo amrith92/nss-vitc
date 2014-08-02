@@ -1,0 +1,749 @@
+/* ==========================================================================
+   HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+body {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+::-moz-selection {
+    background: #e82c8d;
+    text-shadow: none;
+}
+
+::selection {
+    background: #e82c8d;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+		max-width: 100%;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+
+/* ===== Initializr Styles ==================================================
+   Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
+   ========================================================================== */
+
+body {
+    font: 16px/26px Helvetica, Helvetica Neue, Arial;
+}
+
+.wrapper {
+    width: 90%;
+    margin: 0 5%;
+}
+
+.pull-right {
+	float: right;
+}
+
+.pull-left {
+	float: left;
+}
+
+.show {
+	display: block;
+}
+
+/* ==============
+    MOBILE: Menu
+   ============== */
+
+.mobile-toggle {
+	display: block;
+	color: #e3e3e3;
+
+	background: rgb(40,40,40); /* Old browsers */
+	/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+	background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzI4MjgyOCIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDAwMDAiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+	background: -moz-linear-gradient(top,  rgba(40,40,40,1) 0%, rgba(0,0,0,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(40,40,40,1)), color-stop(100%,rgba(0,0,0,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(40,40,40,1) 0%,rgba(0,0,0,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(40,40,40,1) 0%,rgba(0,0,0,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(40,40,40,1) 0%,rgba(0,0,0,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(40,40,40,1) 0%,rgba(0,0,0,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#282828', endColorstr='#000000',GradientType=0 ); /* IE6-8 */
+
+	padding: 6px;
+	margin: 3px 0px;
+
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+
+.mobile-toggle h2 {
+	display: inline-block;
+}
+
+#toggle-img {
+	display: inline-block;
+
+	cursor: pointer;
+	opacity: 0.6;
+}
+
+#toggle-img:hover {
+	opacity: 1.0;
+}
+
+nav {
+	display: none;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+	border-left: solid 1px rgb(102, 102, 102);
+	border-right: solid 1px rgb(102, 102, 102);
+}
+
+nav li a {
+    display: block;
+    padding: 6px 8px 2px;
+		border-bottom: solid 4px transparent;
+
+    text-align: center;
+    text-decoration: none;
+		text-transform: uppercase;
+    font-weight: bold;
+		font-size: 0.875em;
+
+    color: white;
+}
+
+nav li a:hover,
+nav li a:visited {
+    color: white;
+}
+
+div.nav-login {
+	width: 100%;
+	text-align: center;
+
+	border-bottom: solid 1px rgb(102, 102, 102);
+}
+
+div.nav-login a, div.nav-login a:hover {
+	color: #fff;
+	text-decoration: none;
+
+	padding: 6px 4px;
+
+	text-transform: uppercase;
+  font-weight: bold;
+}
+
+div.nav-login a:hover {
+	color: #f15eac;
+}
+
+/* ==============
+    MOBILE: Main
+   ============== */
+
+.main {
+    padding: 30px 0;
+}
+
+.main article h1 {
+    font-size: 2em;
+}
+
+.main aside {
+    color: white;
+    padding: 0px 5% 10px;
+}
+
+.footer-container {
+	border-top: solid 2px #282828;
+	background-color: #000;
+	margin: 10px 0 0;
+}
+
+.footer-container footer {
+    color: #414141;
+		font-size: 0.75em;
+    padding: 20px 0;
+
+		text-align: center;
+}
+
+.title-and-motto h1 {
+	font-family: Georgia, serif;
+	font-size: 3em;
+}
+
+.title-and-motto h3 {
+	color: #f15eac;
+}
+
+/* ===============
+    ALL: IE Fixes
+   =============== */
+
+.ie7 .title {
+    padding-top: 20px;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+body {
+	background: #282828 url('../img/bg-one-cmp.jpg') center center fixed no-repeat;
+	background-size: cover;
+	-moz-background-size: cover;
+	-webkit-background-size: cover;
+}
+
+#header {
+	background-color: #090909;
+	border-bottom: solid 1px rgb(102, 102, 102);
+}
+
+#logo-bar {
+	background-color: rgb(33, 33, 33);
+	padding: 10px;
+
+	border-bottom: solid 1px #000;
+}
+
+h1 {
+	color: #fff;
+	font-family: "Helvetica", Arial, sans-serif;
+	font-size: 1.75em;
+}
+
+.centered {
+	margin: 0 auto;
+	text-align: center;
+}
+
+nav li a:hover:first-child, nav li.active > a:first-child {
+	border-bottom: solid 4px #32cabb;
+	background-color: #063e31;
+	color: #fff;
+}
+
+/*nav li a.about:hover {
+	border-bottom: solid 4px #5bc1ff;
+	background-color: #132d52;
+	color: #fff;
+}
+
+nav li a.services:hover {
+	border-bottom: solid 4px #bfe70a;
+	background-color: #324a00;
+	color: #fff;
+}
+
+nav li a.bureau:hover {
+	border-bottom: solid 4px #ac7cf6;
+	background-color: #2a0a4d;
+	color: #fff;
+}
+
+nav li a.volunteers:hover {
+	border-bottom: solid 4px #f05fac;
+	background-color: #670d29;
+	color: #fff;
+}
+
+nav li a.reachout:hover {
+	border-bottom: solid 4px #f94c3b;
+	background-color: #6d0b00;
+	color: #fff;
+}*/
+
+i {
+	display: inline-block;
+}
+
+.icon-user {
+	margin: -7px 0px;
+	width: 25px;
+	height: 25px;
+
+	background: transparent url('../img/user.png') no-repeat;
+}
+
+.nav-login a:hover > i {
+	background-position: -25px;
+}
+
+.vit-logo {
+	display: none;
+}
+
+img.img-polaroid {
+	border: solid 10px rgba(10, 10, 10, 0.5);
+}
+
+/* ===============
+    MOBILE: Feature
+   =============== */
+
+#feature {
+	margin: 10px 0px;
+}
+
+#feature img {
+	width: 100%;
+}
+
+.feature-text {
+	border-top: solid 5px #f98700;
+
+	background-color: #000; /* 42a14d */
+	padding: 12px;
+	color: #e3e3e3;
+	width: 100%;
+}
+
+/* ===============
+    MOBILE: Boxes
+   =============== */
+
+.row {
+	margin: 10px 0 0;
+}
+
+.row:first-child {
+	margin-top: 0px;
+}
+
+.col-1-3, .col-2-3, .col-1-2, .col-1-4 {
+	margin-top: 10px;
+
+	background: rgba(10, 10, 10, 0.9);
+	color: #e3e3e3;
+
+	width: 100%;
+
+	padding: 6px;
+}
+
+.row .col-1-3:first-child,
+.row .col-2-3:first-child,
+.row .col-1-2:first-child,
+.row .col-1-4:first-child {
+	margin-top: 0px;
+}
+
+.row h1, .row h2, .row h3 {
+	color: #fff;
+}
+
+.yellow {
+	border-top: solid 5px #fbf000;
+}
+
+
+
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (min-width: 480px) {
+
+/* ====================
+    INTERMEDIATE: Menu
+   ==================== */
+
+		.mobile-toggle {
+			display: none;
+		}
+
+		#header {
+			width: 100%;
+			height: 38px;
+			position: fixed;
+			top: 0px;
+		}
+
+		#logo-bar {
+			margin-top: 38px;
+		}
+
+		nav {
+			display: block;
+			float: right;
+		}
+
+    nav li a {
+        margin-bottom: 0;
+				font-size: 0.5em;
+    }
+
+		nav ul li {
+			padding: 0px;
+			margin: 0px 0px 0px -4px;
+			border-right: 0;
+		}
+
+		nav ul li:last-child {
+			border-right: solid 1px rgb(102, 102, 102);
+		}
+
+    nav li:first-child a {
+        margin-left: 0;
+    }
+
+    nav li:last-child a {
+        margin-right: 0;
+    }
+
+		div.nav-login {
+			float: left;
+			width: 20%;
+
+			font-size: 0.5em;
+			vertical-align: middle;
+
+			padding: 6px 0px;
+
+			border-bottom: none;
+		}
+
+/* =====================
+    INTERMEDIATE: Boxes
+   ===================== */
+
+		.row {
+			border: 0;
+			padding: 0;
+			width: 100% !important;
+		}
+
+		.row:after {
+			content: "";
+			display: table;
+			clear: both;
+		}
+
+		[class*='col-']:after, [class*='col-']:before {
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			box-sizing: border-box;
+		}
+
+		[class*='col-'] {
+			float: left;
+		}
+
+		[class*='col-'] {
+			margin-right: 1%;
+			margin-top: 0px;
+		}
+		[class*='col-']:last-of-type {
+			margin-right: 0;
+		}
+
+		.col-2-3 {
+			width: 62.66%;
+		}
+
+		.col-1-3 {
+			width: 29.33%;
+		}
+
+		.col-1-2 {
+			width: 46%;
+		}
+
+		.col-1-4 {
+			width: 21%;
+		}
+
+/* ========================
+    INTERMEDIATE: IE Fixes
+   ======================== */
+
+    nav ul li {
+        display: inline-block;
+    }
+
+    .oldie nav a {
+        margin: 0 0.7%;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+
+/* ====================
+    WIDE: CSS3 Effects
+   ==================== */
+
+/* ============
+    WIDE: Menu
+   ============ */
+
+    .title-and-motto {
+        text-align: left;
+				vertical-align: middle;
+				margin: 0px 20px;
+				display: inline-block;
+				line-height: 0.5em;
+    }
+
+    nav {
+        
+    }
+
+		nav li a, div.nav-login {
+			font-size: 0.75em;
+		}
+
+/* ============
+    WIDE: Main
+   ============ */
+
+    .main article {
+        float: left;
+        width: 57%;
+    }
+
+    .main aside {
+        float: right;
+        width: 28%;
+    }
+
+/* ===============
+    WIDE: Feature
+   =============== */
+
+		#feature img {
+			float: left;
+			width: 60%;
+		}
+
+		.feature-text {
+			float: right;
+			width: 30%;
+		}
+
+/* ===============
+    WIDE: Boxes
+   =============== */
+
+}
+
+@media only screen and (min-width: 1140px) {
+
+/* ===============
+    Maximal Width
+   =============== */
+
+    .wrapper {
+        width: 1026px; /* 1140px - 10% for margins */
+        margin: 0 auto;
+    }
+
+		.title {
+				margin: 30px 120px;
+    }
+
+		.vit-logo {
+			display: block;
+		}
+
+		nav li a, div.nav-login {
+			font-size: 1em;
+		}
+
+/* =================
+    X-WIDE: Feature
+   ================= */
+
+		.col-2-3 {
+			width: 64.66%;
+		}
+
+		.col-1-3 {
+			width: 31.33%;
+		}
+
+		.col-1-2 {
+			width: 48%;
+		}
+
+		.col-1-4 {
+			width: 23%;
+		}
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   Print styles
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}

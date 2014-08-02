@@ -1,0 +1,877 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newFloccData"
+			],
+			[
+				"flocc",
+				"floccular"
+			],
+			[
+				"Blit",
+				"BlitzerClient"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"outpu",
+				"output_style"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"the",
+				"the-shizz-green"
+			],
+			[
+				"margint",
+				"margin-bottom"
+			],
+			[
+				"sho",
+				"showLoading"
+			],
+			[
+				"sh",
+				"showLoading"
+			],
+			[
+				"show",
+				"showLoading"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"margn",
+				"margin-top"
+			],
+			[
+				"att",
+				"attachListeners"
+			],
+			[
+				"pic",
+				"picture"
+			],
+			[
+				"pict",
+				"picture_thumbnail"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"commen",
+				"commentCount"
+			],
+			[
+				"email",
+				"email"
+			],
+			[
+				"OperatorS",
+				"OperatorStructure"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"ema",
+				"emailHash"
+			],
+			[
+				"ne",
+				"newCommentText"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"bcl",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"border-bo",
+				"border-bottom"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"erro",
+				"error"
+			],
+			[
+				"th",
+				"thankYou"
+			],
+			[
+				"vali",
+				"validate"
+			],
+			[
+				"Login",
+				"LoginValidator"
+			],
+			[
+				"Sign",
+				"SignupValidator"
+			],
+			[
+				"va",
+				"validator"
+			],
+			[
+				"Si",
+				"SignupValidator"
+			],
+			[
+				"S",
+				"SignupValidator"
+			],
+			[
+				"Flocc",
+				"Floccular"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"comm",
+				"commentsLoaded"
+			],
+			[
+				"floc",
+				"floccApp"
+			],
+			[
+				"add",
+				"addComment"
+			],
+			[
+				"flo",
+				"floccular"
+			],
+			[
+				"User",
+				"UserService"
+			],
+			[
+				"li",
+				"likeText"
+			],
+			[
+				"lik",
+				"likes"
+			],
+			[
+				"get",
+				"getCurrentUser"
+			],
+			[
+				"Us",
+				"UserService"
+			],
+			[
+				"wor",
+				"break-word"
+			],
+			[
+				"med",
+				"media-viewer-modal"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"thum",
+				"thumb_path"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"all",
+				"allFloccs"
+			],
+			[
+				"proc",
+				"processFloccs"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"user_",
+				"user_id"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"border-to",
+				"border-top-right-radius"
+			],
+			[
+				"t",
+				"true"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"s",
+				"state"
+			],
+			[
+				"on",
+				"onUpdate"
+			],
+			[
+				"like",
+				"likeCount"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"for",
+				"formData"
+			],
+			[
+				"image",
+				"imageHook"
+			],
+			[
+				"parse",
+				"parsed"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"imag",
+				"imageHook"
+			],
+			[
+				"fl",
+				"flocc"
+			],
+			[
+				"login",
+				"loginForm"
+			],
+			[
+				"ed",
+				"editors"
+			],
+			[
+				"edit",
+				"editMode"
+			],
+			[
+				"edi",
+				"editMode"
+			],
+			[
+				"FIEL",
+				"field"
+			],
+			[
+				"typ",
+				"type"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"retur",
+				"returnCode"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"bord",
+				"border-bottom-width"
+			],
+			[
+				"border-colr",
+				"border-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"border-bt",
+				"border-bottom-color"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"passwo",
+				"password_confirmation"
+			],
+			[
+				"asser",
+				"assertTrue"
+			],
+			[
+				"or",
+				"original_phone"
+			],
+			[
+				"preg_m",
+				"preg_match_all"
+			],
+			[
+				"off",
+				"offence"
+			],
+			[
+				"creep",
+				"creep_id"
+			],
+			[
+				"int",
+				"integer"
+			],
+			[
+				"offe",
+				"offences"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"Cr",
+				"CREEP"
+			],
+			[
+				"number",
+				"numbers_only"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"oau",
+				"oauthId"
+			],
+			[
+				"oaut",
+				"oauthIdProperty"
+			],
+			[
+				"var_",
+				"var_export"
+			],
+			[
+				"firs",
+				"firstName"
+			],
+			[
+				"af",
+				"afterConnect"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 12627,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.html",
+			"settings":
+			{
+				"buffer_size": 5092,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4369,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/chinese-bridge/public/packages/users/js/webcam.js",
+		"/var/www/chinese-bridge/public/packages/bootstrap/js/slider.js",
+		"/var/www/nss/index.html",
+		"/var/www/nss/activities.html",
+		"/var/www/chinese-bridge/public/packages/bootstrap/js/jquery.js",
+		"/var/www/chinese-bridge/public/packages/bootstrap/css/bootstrap.css",
+		"/var/www/flocc/public/packages/profile/css/profile.css",
+		"/var/www/flocc/public/packages/landing/scss/screen.scss",
+		"/var/www/flocc/public/packages/landing/css/landing.css",
+		"/var/www/flocc/public/packages/profile/js/flocc.js",
+		"/var/www/flocc/app/controllers/FloccController.php",
+		"/var/www/flocc/app/views/profile-head.blade.php",
+		"/var/www/flocc/app/views/extra.blade.php",
+		"/var/www/flocc/workbench/flocc/blitzer/src/Flocc/Blitzer/Facades/Blitzer.php",
+		"/var/www/flocc/workbench/flocc/blitzer/src/Flocc/Blitzer/BlitzerServiceProvider.php",
+		"/var/www/flocc/app/config/app.php",
+		"/var/www/flocc/app/views/profile.blade.php",
+		"/var/www/flocc/public/packages/profile/css/flocc.css",
+		"/var/www/flocc/public/packages/profile/scss/profile.scss",
+		"/var/www/flocc/public/packages/landing/scss/ie.scss",
+		"/var/www/flocc/app/views/layouts/main.blade.php",
+		"/var/www/flocc/app/views/home.blade.php",
+		"/var/www/flocc/public/packages/landing/.gitignore",
+		"/var/www/flocc/public/packages/landing/prod-config.rb",
+		"/var/www/flocc/public/packages/landing/scss/print.scss",
+		"/var/www/flocc/app/views/home-head.blade.php",
+		"/var/www/flocc/public/packages/landing/config.rb",
+		"/var/www/flocc/public/packages/landing/scss/landing.scss",
+		"/var/www/flocc/public/packages/common/scss/css3/_shared.scss",
+		"/var/www/flocc/public/packages/landing/css/ie.css",
+		"/var/www/flocc/app/controllers/UsersController.php",
+		"/var/www/flocc/workbench/flocc/blitzer/src/Flocc/Blitzer/Blitzer.php",
+		"/var/www/flocc/workbench/flocc/blitzer/src/Flocc/Blitzer/Magazine.php",
+		"/var/www/flocc/workbench/flocc/blitzer/src/Flocc/Blitzer/Command/Serve.php",
+		"/var/www/flocc/workbench/flocc/blitzer/src/Flocc/Blitzer/BlitzerInterface.php",
+		"/var/www/flocc/workbench/flocc/blitzer/composer.json",
+		"/var/www/flocc/app/config/workbench.php",
+		"/var/www/flocc/public/packages/bootstrap-ie7/css/bootstrap-ie7.css",
+		"/var/www/flocc/public/packages/landing/js/landing-forms.js",
+		"/var/www/flocc/app/views/home-extra.blade.php",
+		"/var/www/flocc/app/views/thankyou.blade.php",
+		"/var/www/flocc/app/routes.php",
+		"/var/www/flocc/app/controllers/CommentController.php",
+		"/var/www/flocc/app/database/migrations/2014_01_22_142245_add_users_table.php",
+		"/var/www/flocc/app/database/migrations/2014_02_28_182819_add_picture_to_users_table.php",
+		"/var/www/flocc/app/database/migrations/2014_02_28_183431_update_picture_nullable_to_users_table.php",
+		"/home/amrith92/Documents/Harish/HalsteadMetrics/src/org/eclipse/plugin/halstead/metrics/Operators.java",
+		"/home/amrith92/Documents/Harish/HalsteadMetrics/src/org/eclipse/plugin/halstead/metrics/Initiator.java",
+		"/home/amrith92/Documents/Harish/HalsteadMetrics/src/org/eclipse/plugin/halstead/metrics/OperatorStructure.java",
+		"/home/amrith92/Documents/Harish/HalsteadMetrics/src/org/eclipse/plugin/halstead/metrics/OperandsStructure.java",
+		"/home/amrith92/Documents/Harish/HalsteadMetrics/src/org/eclipse/plugin/halstead/metrics/KeywordAnalyzer.java",
+		"/home/amrith92/Documents/Harish/HalsteadMetrics/src/org/eclipse/plugin/halstead/metrics/Operands.java",
+		"/home/amrith92/Documents/Harish/HalsteadMetrics/src/org/eclipse/plugin/halstead/metrics/JavaKeyword.java",
+		"/var/www/flocc/public/packages/landing/css/nofrills.css",
+		"/var/www/flocc/app/views/whoopsie.blade.php",
+		"/var/www/flocc/app/views/policy.blade.php",
+		"/var/www/flocc/app/views/nofrills-head.blade.php",
+		"/var/www/flocc/app/views/terms.blade.php",
+		"/var/www/flocc/app/views/emails/welcome.blade.php",
+		"/var/www/email.html",
+		"/var/www/forest/Components/Web/Controller/UserBookmarkController.php",
+		"/var/www/forest/Components/Web/Service/UserBookmarkService.php",
+		"/var/www/flocc/app/config/mail.php",
+		"/var/www/flocc/app/config/queue.php",
+		"/var/www/flocc/app/database/migrations/2014_02_04_151202_add_flocc_user_like_table.php",
+		"/var/www/flocc/public/packages/landing/css/print.css",
+		"/var/www/flocc/public/packages/landing/css/screen.css",
+		"/media/amrith92/GETHU G/bootstrap/index.html",
+		"/var/www/flocc/app/controllers/ProfileController.php",
+		"/var/www/flocc/app/controllers/.gitkeep",
+		"/var/www/flocc/public/packages/landing/js/landing.js",
+		"/var/www/flocc/app/database/migrations/2014_02_16_233858_add_thumbpath_to_images_table.php",
+		"/var/www/flocc/public/packages/profile/js/ng-infinite-scroll.min.js",
+		"/var/www/flocc/app/filters.php",
+		"/var/www/flocc/app/controllers/HomeController.php",
+		"/var/www/flocc/app/models/User.php",
+		"/var/www/flocc/public/packages/profile/js/profile.js",
+		"/var/www/flocc/public/packages/utilities/js/digital-fusion.js",
+		"/var/www/flocc/app/models/Comment.php",
+		"/var/www/flocc/app/models/Flocc.php",
+		"/var/www/flocc/app/database/migrations/2014_01_22_144632_add_comments_table.php",
+		"/var/www/flocc/public/packages/profile/js/moment.js",
+		"/var/www/flocc/app/config/session.php",
+		"/var/www/flocc/app/database/migrations/2014_02_04_160413_add_path_to_images_table.php",
+		"/var/www/flocc/app/models/Video.php",
+		"/var/www/flocc/app/models/ModelBase.php",
+		"/var/www/flocc/app/database/migrations/2014_01_22_152406_add_images_table.php",
+		"/var/www/flocc/app/database/migrations/2014_02_08_125035_drop_flocc_image_table.php",
+		"/var/www/flocc/app/database/migrations/2014_01_22_153406_add_flocc_image_table.php",
+		"/var/www/flocc/app/models/Image.php",
+		"/var/www/flocc/public/packages/profile/css/dropzone.css",
+		"/var/www/flocc/app/views/profile-footer.blade.php",
+		"/var/www/flocc/public/packages/profile/js/dropzone.js",
+		"/var/www/flocc/app/tests/TestCase.php",
+		"/var/www/flocc/app/tests/UserTest.php",
+		"/var/www/flocc/app/views/emails/auth/reminder.blade.php",
+		"/var/www/flocc/app/controllers/BaseController.php",
+		"/var/www/flocc/app/views/hello.php",
+		"/home/amrith92/Documents/Flocc/flocc.sublime-project",
+		"/var/www/creepz/app/tests/TestCase.php",
+		"/var/www/creepz/app/tests/CreepTest.php",
+		"/var/www/creepz/app/models/Creep.php",
+		"/var/www/creepz/composer.json",
+		"/var/www/creepz/app/config/testing/database.php",
+		"/var/www/creepz/vendor/laravelbook/ardent/src/LaravelBook/Ardent/Ardent.php",
+		"/var/www/creepz/app/database/migrations/2014_01_21_151850_create_redemption_table.php",
+		"/var/www/creepz/app/database/migrations/2014_01_17_180045_create_creeps_table.php",
+		"/var/www/creepz/app/database/migrations/2014_01_17_181234_create_creep_offence_table.php",
+		"/var/www/creepz/app/controllers/CreepsController.php",
+		"/var/www/creepz/public/packages/home/js/validate-phone.js",
+		"/var/www/creepz/app/views/add-creep.blade.php",
+		"/var/www/creepz/app/views/creep-alert.blade.php",
+		"/var/www/creepz/app/views/hello.blade.php",
+		"/var/www/creepz/public/packages/home/css/home.css",
+		"/var/www/creepz/app/views/layouts/main.blade.php",
+		"/var/www/creepz/app/database/seeds/OffenceTableSeeder.php",
+		"/var/www/creepz/app/routes.php",
+		"/var/www/creepz/app/database/seeds/DatabaseSeeder.php",
+		"/var/www/creepz/app/models/Offence.php",
+		"/var/www/creepz/app/database/migrations/2014_01_17_181002_create_offences_table.php",
+		"/var/www/creepz/app/config/app.php",
+		"/var/www/creepz/app/config/database.php",
+		"/var/www/creepz/app/controllers/HomeController.php",
+		"/var/www/creepz/app/views/hello-head.blade.php",
+		"/var/www/fatboy/app/controllers/UsersController.php",
+		"/var/www/fatboy/app/views/signup/after-connect.blade.php",
+		"/var/www/fatboy/public/packages/signup/css/after-connect.css",
+		"/var/www/fatboy/app/views/signup/after-connect-head.blade.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/var/www/fatboy/public"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"h1",
+			"header",
+			"([A-Z]{2,3})([0-9]+)",
+			"}}',",
+			":</h5>",
+			"strong",
+			"h3",
+			"</b>",
+			"<b>",
+			"/*@editable*/ ",
+			"toggle",
+			".refre",
+			"dropzone",
+			"sprite",
+			"hasSessionStore",
+			"index.php"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$1 $2",
+			"</h5>",
+			"h5",
+			"h4",
+			"</strong>",
+			"<strong>",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12627,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6877,
+								6877
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5927.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "about.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5092,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4403,
+								4403
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 216.0,
+						"translation.y": 1347.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3059,
+								3059
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2346.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "nss.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Flocc/flocc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 180.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

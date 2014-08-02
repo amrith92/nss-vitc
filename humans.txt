@@ -1,0 +1,21 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Alchemist: Amrith Nayak
+    Contact: amrith92 at gmail.com
+    Twitter: @amrith92
+
+    Front-End: Aditya Anand
+    Contact: aditya.anandmc at gmail.com
+
+# THANKS
+
+    Keertan Dakarapu
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    MooTools, Modernizr
+    Apache/mod_php
