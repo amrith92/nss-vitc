@@ -1,6 +1,6 @@
         <div class="footer-container">
             <footer class="wrapper">
-                &copy; thegeekmachine 2013
+            &copy; thegeekmachine <?php echo date('Y'); ?>
             </footer>
         </div>
 
