@@ -72,13 +72,15 @@ $sliderData = include 'event-data.php';
 window.onload = function() {
     $('#feature-slider').liquidSlider({
         autoSlide: true,
-        continuous: false,
+        autoSlideInterval: 100,
         hideSideArrows: false,
+        hideArrowsWhenMobile: false,
         slideEaseFunction: 'animate.css',
-        slideEaseDuration: 400,
-        heightEaseDuration: 400,
+        slideEaseDuration: 200,
+        heightEaseDuration: 200,
         animateIn: 'bounceIn',
-        animateOut: 'lightspeedOut'
+        animateOut: 'fadeOut',
+        swipe: true
     });
 };
 </script>
