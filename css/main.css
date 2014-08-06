@@ -22,12 +22,12 @@ body {
 }
 
 ::-moz-selection {
-    background: #e82c8d;
+    background: #B4DCFF;
     text-shadow: none;
 }
 
 ::selection {
-    background: #e82c8d;
+    background: #B4DCFF;
     text-shadow: none;
 }
 
