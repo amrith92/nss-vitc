@@ -33,6 +33,15 @@
                     </div>
                 </div>
             </div>
+            <div class="col-1-3 no-frills">
+                <div class="profile">
+                    <img src="img/prof-priya.jpg" alt="Prof. Priyaadharshini M.">
+                    <div class="profile-text">
+                        <h3>Faculty Coordinator</h3>
+                        <p>Prof. Priyaadharshini M.</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 </div>
