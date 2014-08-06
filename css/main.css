@@ -1,5 +1,5 @@
 /* FONTS */
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700);
 @import url(http://fonts.googleapis.com/css?family=Oswald:700);
 
 html,
@@ -278,11 +278,12 @@ div.nav-login a:hover {
 body {
 	background: #65DABC url('../img/struckaxiom.png') repeat;
 	font-family: 'Open Sans', 'sans-serif';
+    font-weight: 400;
 }
 
 #header {
 	background: #333;
-	border-bottom: solid 1px #111;
+    border-bottom: solid 1px #111;
 	box-shadow: 0 0 60px rgba(10, 10, 10, 0.6);
 	line-height: 1.6em;
 }
@@ -338,9 +339,6 @@ img.img-polaroid, .stories-container img {
     box-shadow: 0 0 3px rgba(10, 10, 10, 0.6);
 }
 
-.profile {
-}
-
 .profile-text {
     color: #333;
     text-align: center;
@@ -377,6 +375,11 @@ img.img-polaroid, .stories-container img {
 	color: #333;
 	width: 100%;
 	box-shadow: 0px 3px 3px rgba(10, 10, 10, 0.2);
+}
+
+#feature-slider {
+    width: 100%;
+    max-width: 100% !important;
 }
 
 /* ===============
@@ -446,6 +449,7 @@ img.img-polaroid, .stories-container img {
 			height: 38px;
 			position: fixed;
 			top: 0px;
+            z-index: 999;
 		}
 
 		#logo-bar {
