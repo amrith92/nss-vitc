@@ -42,7 +42,7 @@ hr {
 
 img {
     vertical-align: middle;
-		max-width: 100%;
+    max-width: 100%;
 }
 
 fieldset {
@@ -276,7 +276,7 @@ div.nav-login a:hover {
 
 
 body {
-	background: #65DABC url('../img/struckaxiom.png') repeat;
+	background: #eee url('../img/struckaxiom.png') repeat;
 	font-family: 'Open Sans', 'sans-serif';
     font-weight: 400;
 }
