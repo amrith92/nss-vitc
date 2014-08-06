@@ -39,6 +39,7 @@
                 <h1>
                     National Service Scheme
                 </h1>
+                <h6>Approved by</h6>
                 <h6>Ministry of Youth Affairs and Sports</h6>
             </div>
             <div class="img-container col-1-4">
