@@ -382,6 +382,14 @@ img.img-polaroid, .stories-container img {
     max-width: 100% !important;
 }
 
+ol.faq-list {
+    list-style-position: inside;
+}
+
+ol.faq-list h2 {
+    display: inline-block;
+}
+
 /* ===============
     MOBILE: Boxes
    =============== */
@@ -394,7 +402,7 @@ img.img-polaroid, .stories-container img {
 	margin-top: 0px;
 }
 
-.col-1-3, .col-2-3, .col-1-2, .col-1-4, .col-3-4 {
+.col-1-3, .col-2-3, .col-1-2, .col-1-4, .col-3-4, .whitewash {
 	margin-top: 10px;
 
 	background: #eee;
