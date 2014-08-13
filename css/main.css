@@ -390,6 +390,53 @@ ol.faq-list h2 {
     display: inline-block;
 }
 
+/**
+ *  Events
+ **/
+.event-title {
+    cursor: pointer;
+}
+
+.event-title:hover {
+    background: #fff;
+    border-color: #FF0034;
+}
+
+#event-container {
+    background: rgba(230, 230, 230, 0.9);
+    box-shadow: inset 0 0 16px rgba(30, 30, 30, 0.3);
+    z-index: 5;
+    position: absolute;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.event-close {
+    float: right;
+    font-size: 0.8em;
+    font-weight: bold;
+    color: #222;
+    border: solid 1px #111;
+    border-radius: 20px;
+    height: 18px;
+    width: 18px;
+    text-align: center;
+    margin-top: 4px;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+#event-box-title, #event-box-description {
+    padding: 6px;
+}
+
+#event-box-title h1 {
+    color: #333;
+    text-shadow: 1px 2px 3px rgba(0,0,0,.3);
+    padding-bottom: 4px;
+    border-bottom: solid 1px #222;
+}
+
 /* ===============
     MOBILE: Boxes
    =============== */

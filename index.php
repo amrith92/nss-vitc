@@ -53,15 +53,12 @@ $sliderData = include 'event-data.php';
             <div class="col-1-2 yellow">
                 <h3>Circulars</h3>
                 <ul>
-                    <li>Please submit...</li>
+                    <li>Watch out for circulars...</li>
                 </ul>
             </div>
 
             <div class="col-1-2 yellow">
-                <h3>Whoa!</h3>
-                <p>
-                    Something about the awesome-ness!
-                </p>
+                <h3>Follow us on</h3>
             </div>
 
         </div> <!-- /row -->
